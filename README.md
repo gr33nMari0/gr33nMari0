@@ -1,4 +1,6 @@
-[![reimaginedreadme](https://myreadme.vercel.app/api/embed/gr33nMari0?panels=userwelcome,userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/PressJump/reimaginedreadme)
+| Profile Statistics | Favourite Languages |
+|----------|----------|
+| ![gr33nMari0's Stats](https://github-readme-stats.vercel.app/api?username=gr33nMari0&theme=solarized-light&show_icons=true&hide_border=true&count_private=true) | ![gr33nMari0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gr33nMari0&theme=solarized-light&show_icons=true&hide_border=true&layout=compact) |
 
 ### G'day! I'm Pete! 😁
 
@@ -9,6 +11,8 @@
 📍 **Location**: Either off hiking in the bush or writing code in Canberra! ☕️🌆
 
 🔗 **Let's Connect**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/PeterWoodhead)
+
+![gr33nMari0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gr33nMari0&theme=solarized-light&show_icons=true&hide_border=true&layout=compact)
 
 ---
 <!--
