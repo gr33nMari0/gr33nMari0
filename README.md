@@ -10,7 +10,7 @@
 
 📍 **Location**: Either off hiking in the bush or writing code in Canberra! ☕️🌆
 
-🔗 **Let's Connect**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/PeterWoodhead)
+🔗 **Let's Connect**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/peterwoodhead)
 
 ![gr33nMari0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gr33nMari0&theme=solarized-light&show_icons=true&hide_border=true&layout=compact)
 
