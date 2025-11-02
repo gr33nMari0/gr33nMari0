@@ -6,7 +6,7 @@
 
 ---
 
-🎓 **Studying**: Advanced Computing (Research and Development) (Honours) at [ANU (Australian National University)](https://www.anu.edu.au/). Currently in my second year, learning and coding my way to glory!
+🎓 **Studying**: Advanced Computing (Honours) with a Major in Cyber Security at [ANU (Australian National University)](https://www.anu.edu.au/). Currently in my second year, learning and coding my way to glory!
 
 📍 **Location**: Either off hiking in the bush or writing code in Canberra! ☕️🌆
 
