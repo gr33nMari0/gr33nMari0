@@ -6,7 +6,7 @@
 
 ---
 
-🎓 **Studying**: Advanced Computing (Honours) with a Major in Cyber Security at [ANU (Australian National University)](https://www.anu.edu.au/). Cybersecurity officer for the Computer Science Students Association at ANU, learning and sharing my love for the field with others!
+🎓 **Studying**: Bachelor of Computing with a Major in Cyber Security at [ANU (Australian National University)](https://www.anu.edu.au/). Cybersecurity officer for the Computer Science Students Association at ANU, running CTFs and great events, and learning and sharing my love for the field with others!
 
 📍 **Location**: Either off hiking in the bush or writing code in Canberra! ☕️🌆
 
