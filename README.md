@@ -6,7 +6,7 @@
 
 ---
 
-🎓 **Studying**: Bachelor of Computing with a Major in Cyber Security at [ANU (Australian National University)](https://www.anu.edu.au/). President for the ANU Computer Science Students Association, and previously the first Cybersecurity Officer - known for running CTFs, great events [like TechFest](https://techfest.cssa.club/) (which included a whole [Tech Talk Conference which I MC'd!](https://techfest.cssa.club/tech-talks/)), and learning and sharing my love for the field with others!
+🎓 **Studying**: Bachelor of Computing with a Major in Cyber Security at [ANU (Australian National University)](https://www.anu.edu.au/). President for the ANU Computer Science Students Association, and previously the first Cybersecurity Officer - known for running CTFs such as Disorientation CTF and BushBash CTF (1700+ players from 49 countries, including 16 Australian Universities), great events [like TechFest](https://techfest.cssa.club/) (which included a whole [Tech Talk Conference which I MC'd!](https://techfest.cssa.club/tech-talks/)), and learning and sharing my love for the field with others!
 
 My interest areas are Cyber Incident Response, Crisis Management, and Critical Infrastructure. Hmu if you ever want to work together ;)
 
