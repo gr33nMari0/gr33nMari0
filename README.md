@@ -6,7 +6,9 @@
 
 ---
 
-🎓 **Studying**: Bachelor of Computing with a Major in Cyber Security at [ANU (Australian National University)](https://www.anu.edu.au/). Cybersecurity officer for the Computer Science Students Association at ANU, running CTFs and great events, and learning and sharing my love for the field with others!
+🎓 **Studying**: Bachelor of Computing with a Major in Cyber Security at [ANU (Australian National University)](https://www.anu.edu.au/). President for the ANU Computer Science Students Association, and previously the first Cybersecurity Officer - known for running CTFs, great events [like TechFest](https://techfest.cssa.club/) (which included a whole [Tech Talk Conference, which I MC'd!](https://techfest.cssa.club/tech-talks/), and learning and sharing my love for the field with others!
+
+My interest areas are Cyber Incident Response, Crisis Management, and Critical Infrastructure. Hmu if you ever want to work together ;)
 
 📍 **Location**: Either off hiking in the bush or writing code in Canberra! ☕️🌆
 
